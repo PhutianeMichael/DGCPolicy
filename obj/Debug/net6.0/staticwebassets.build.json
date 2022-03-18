@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4jlzAQsC1xnpmivQbSWqvsqxF+7XnDkQSF9IsccH0mA=",
+  "Source": "DgcPolicyApi",
+  "BasePath": "_content/DgcPolicyApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
